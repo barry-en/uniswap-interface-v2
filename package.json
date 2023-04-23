@@ -1,7 +1,6 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://barry-en.github.io/falshswap",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
